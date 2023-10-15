@@ -14,7 +14,7 @@ This Python code performs object recognition with YOLOv3 on a video stream and c
    
 4. Run the Code :)
    
-5. View Counting People on Camera
+5. View Counting People on Camera:
    After running the script, you will see people being framed and counted in the live video from your camera.
 
 6. Exit the Program:
